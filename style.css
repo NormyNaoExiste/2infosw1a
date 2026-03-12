@@ -7,7 +7,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(103, 138, 169, 0.91);
+    background-color: rgba(103, 138, 169, 0.9);
     backdrop-filter: blur(7px);
     position: sticky;
     top: 0;
